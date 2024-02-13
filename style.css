@@ -87,6 +87,7 @@ nav li a:hover{
 .column1{
     width:150px;
     height:100vh;
+	padding-top:10px;
 }
 .column1 p{
     padding-top:100px;
@@ -95,6 +96,8 @@ nav li a:hover{
     font-size:16px;
 	writing-mode: vertical-rl;
     text-orientation: mixed; 
+	margin-right:0px;
+	padding-right:10px;
 
 }
 .column2{
