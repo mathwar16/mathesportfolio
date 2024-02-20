@@ -8,7 +8,6 @@ body{
     background-image: url("banner-bg..png");
     background-size: cover;
     background-repeat: no-repeat;
-    /* background-color: #f4f4f4; */
     height: 100%;
     width: 100%;
 }
@@ -450,7 +449,7 @@ marquee p{
 .skill-first-row-column2 p{
     text-align: center;
     font-weight:lighter ;
-    text-transform: uppercase;
+   
 }
 .skill-first-row-column2:hover{
     border:1px solid #2eca7f;
